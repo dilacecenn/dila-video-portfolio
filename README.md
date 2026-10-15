@@ -2,6 +2,7 @@
 
 A static English portfolio website prepared for GitHub Pages. It features original paintings and four experimental video studies.
 
+https://dilacecenn.github.io/dila-video-portfolio/
 ## Contents
 
 - `index.html` — the page
